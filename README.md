@@ -1,3 +1,4 @@
+<img align="center" alt="banner" width="800" height="350" src="./web_development.jpg">
 <h1 align="center">Hi 👋, I'm Bintu Jalloh</h1>
 <h3 align="center">An aspiring full Stack software engineer and a Student at Smith college, majoring in Computer Science.</h3>
 <img align="right" alt="woman coding" width="400" src="https://media.giphy.com/media/7v9opQEsqFRAlYs6mq/giphy.gif">
