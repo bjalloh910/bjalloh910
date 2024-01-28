@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bintuj522@gmail.com**
 
-- 🚴🏽‍♀️ Fun fact **I love riding my bike in the sun.**
+- 🚴🏽‍♀️ Fun fact **I enjoy reading self-help books. Ask me anything about self improvement.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
